@@ -38,7 +38,7 @@ You can refer to each of these libraries' documentation for more examples and ex
 
 ## Stubs
 
-A stub is a way to modify a function and delegate control overs its behavior to you (the programmer).
+A stub is a way to modify a function and delegate control over its behavior to you (the programmer).
 
 A stub is most commonly used in a unit test but is still useful during some integration/e2e tests.
 
